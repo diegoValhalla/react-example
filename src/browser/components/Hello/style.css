@@ -1,0 +1,12 @@
+@import '../../../stylesheet/style.css';
+
+.text {
+  height: 200px;
+  background-color: black;
+  color: $my-color;
+}
+
+.my-img {
+  height: 200px;
+  display: flex;
+}
